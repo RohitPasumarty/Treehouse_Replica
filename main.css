@@ -652,6 +652,18 @@ video{
 	color: #7b8b8e;
 }
 
+.bottom .part2 a:hover{
+	background-color: #2a5d81;
+	transition-timing-function: ease-in;
+	transition-duration: 0.2s;
+}
+
+.bottom .part3 a:hover{
+	background-color: #2a5d81;
+	transition-timing-function: ease-in;
+	transition-duration: 0.2s;
+}
+
 .bottom .part4 a:hover{
 	background-color: #5fcf80;
 	transition-timing-function: ease-in;
