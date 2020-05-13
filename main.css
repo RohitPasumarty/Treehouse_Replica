@@ -642,6 +642,16 @@ video{
     color: white;
 }
 
+.part2 ul li a{
+	text-decoration: none;
+	color: #7b8b8e;
+}
+
+.part3 ul li a{
+	text-decoration: none;
+	color: #7b8b8e;
+}
+
 .bottom .part4 a:hover{
 	background-color: #5fcf80;
 	transition-timing-function: ease-in;
